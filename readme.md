@@ -1,4 +1,4 @@
-Things I learned at Bloc
+##Things I learned at Bloc
 1.  Using Git in a more efficient manner
 2.  HTML
 3.  CSS
